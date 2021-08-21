@@ -49,6 +49,7 @@ class SmsTypes:
 		HR = '45'  # Хорватия ( Croatia)
 		IQ = '47'  # Ирак (Iraq)
 		NL = '48'  # Нидерланды (Netherlands)
+		FR = '78' #add france
 
 
 	class Status:
